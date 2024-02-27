@@ -1,0 +1,18 @@
+body {
+    margin: 40px;
+    background-color: #00D1AE;
+    color: #333;
+}
+.menu {
+    width: 400px;
+    height: 50px;
+    background-color: #00D1AE;
+    margin-bottom: 10px;
+}
+
+.content {
+    width: 400px;
+    height: 200px;
+    background-color: red;
+    margin-bottom: 20px;
+}
